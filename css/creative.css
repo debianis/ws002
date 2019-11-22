@@ -2265,7 +2265,7 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #ce748d;
+  background-color: #909195;
   border-color: #d199b6;
 }
 
@@ -6214,7 +6214,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #ce748d !important;
+  background-color: #909195 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -9373,7 +9373,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #ce748d !important;
+  color: #909195 !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -9441,7 +9441,7 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 .text-muted {
-  color: #ce748d !important;
+  color: #909195 !important;
 }
 
 .text-black-50 {
@@ -9618,11 +9618,11 @@ hr.light {
 }
 
 #mainNav .navbar-nav .nav-item .nav-link:hover, #mainNav .navbar-nav .nav-item .nav-link:active {
-  color: #ce748d;
+  color: #909195;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link.active {
-  color: #ce748d !important;
+  color: #909195 !important;
 }
 
 @media (min-width: 992px) {
@@ -9654,13 +9654,13 @@ hr.light {
     color: #212529;
   }
   #mainNav.navbar-scrolled .navbar-brand:hover {
-    color: #ce748d;
+    color: #909195;
   }
   #mainNav.navbar-scrolled .navbar-nav .nav-item .nav-link {
     color: #212529;
   }
   #mainNav.navbar-scrolled .navbar-nav .nav-item .nav-link:hover {
-    color: #ce748d;
+    color: #909195;
   }
 }
 
