@@ -9720,7 +9720,7 @@ header.masthead h1 {
   text-align: center;
   opacity: 0;
   color: #fff;
-  background: rgba(237, 173, 199, 0.9);
+  background: rgba(144, 145, 149, 0.9);
   transition: opacity 0.25s ease;
   text-align: center;
 }
